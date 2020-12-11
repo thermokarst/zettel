@@ -2,4 +2,4 @@
 
 experiment(s) with a public notebook.
 
-[[[z:zettels?timeline]]]
+[[z:zettels?tag=timeline/**&timeline]]

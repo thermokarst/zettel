@@ -1,0 +1,5 @@
+page:
+  siteTitle: zettel.thermokar.st
+
+template:
+  name: /templates/layouts/note

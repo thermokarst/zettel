@@ -2,4 +2,6 @@
 
 experiment(s) with a public notebook.
 
-[[z:zettels?tag=timeline/**&timeline]]
+```query {.timeline}
+tag:timeline
+```

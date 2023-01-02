@@ -3,3 +3,5 @@ page:
 
 template:
   name: /templates/layouts/note
+  sidebar:
+    collapsed: false
